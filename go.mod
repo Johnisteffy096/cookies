@@ -1,6 +1,6 @@
 module github.com/kgretzky/evilginx2
 
-go 1.23
+go 1.22
 
 require (
 	github.com/go-rod/rod v0.116.2
