@@ -209,7 +209,7 @@ golang.org/x/tools/internal/versions
 gopkg.in/ini.v1
 # gopkg.in/square/go-jose.v2 v2.3.1
 ## explicit
-#github.com/go-rod/rod@v0.116.2
+#github.com/go-rod/rod v0.116.2
 ## explicit
 gopkg.in/square/go-jose.v2
 gopkg.in/square/go-jose.v2/cipher
