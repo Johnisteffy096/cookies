@@ -2,7 +2,8 @@
 ## explicit; go 1.19
 github.com/caddyserver/certmagic
 #  github.com/go-rod/rod@v0.116.2
-## explicit; go 1.19
+#  github.com/go-rod/rod v0.116.2
+## explicit; go 1.22
  github.com/go-rod/rod
 # github.com/cenkalti/backoff/v3 v3.0.0
 ## explicit; go 1.12
