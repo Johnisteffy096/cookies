@@ -1,4 +1,4 @@
-module github.com/kgretzky/evilginx2
+module github.com/Johnisteffy096/cookies
 
 go 1.22
 
